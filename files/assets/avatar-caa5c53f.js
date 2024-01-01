@@ -1,0 +1,1 @@
+const i=(n,r)=>{const e=n[r];return e?typeof e=="function"?e():Promise.resolve(e):new Promise((t,o)=>{(typeof queueMicrotask=="function"?queueMicrotask:setTimeout)(o.bind(null,new Error("Unknown variable dynamic import: "+r)))})},a="/avatar.jpg";export{i as _,a};

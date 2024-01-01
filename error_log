@@ -1,0 +1,42 @@
+[01-Jan-2024 11:02:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:02:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:02:56 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:03:01 UTC] PHP Notice:  Undefined offset: -1 in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 114
+[01-Jan-2024 11:03:02 UTC] PHP Notice:  Undefined offset: -1 in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 114
+[01-Jan-2024 11:04:42 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:04:43 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:05:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:05:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:05:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:05:20 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 115
+[01-Jan-2024 11:06:01 UTC] PHP Parse error:  syntax error, unexpected '"]')){' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:06:40 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 135
+[01-Jan-2024 11:07:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:07:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:08:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:08:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:08:05 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:08:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:08:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 117
+[01-Jan-2024 11:09:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 113
+[01-Jan-2024 11:09:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function str_contains() in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:113
+Stack trace:
+#0 {main}
+  thrown in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 113
+[01-Jan-2024 11:10:23 UTC] PHP Parse error:  syntax error, unexpected '"]')&&document.querySelector('' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 121
+[01-Jan-2024 11:10:24 UTC] PHP Parse error:  syntax error, unexpected '"]')&&document.querySelector('' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 121
+[01-Jan-2024 11:40:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:54) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 121
+[01-Jan-2024 11:40:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:54) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 121
+[01-Jan-2024 11:40:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:54) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 121
+[01-Jan-2024 11:40:29 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:54) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 121
+[01-Jan-2024 11:51:05 UTC] PHP Warning:  mkdir(): File exists in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 67
+[01-Jan-2024 11:51:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:67) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 113
+[01-Jan-2024 11:56:43 UTC] PHP Warning:  file_get_contents(/home/cstxyz/public_html/map.classicsofttech.xyz/files/assets/app-b175507b.js): failed to open stream: No such file or directory in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 82
+[01-Jan-2024 11:56:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:82) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 119
+[01-Jan-2024 11:56:48 UTC] PHP Warning:  file_get_contents(/home/cstxyz/public_html/map.classicsofttech.xyz/files/assets/app-b175507b.js): failed to open stream: No such file or directory in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 82
+[01-Jan-2024 11:56:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:82) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 119
+[01-Jan-2024 11:56:50 UTC] PHP Warning:  file_get_contents(/home/cstxyz/public_html/map.classicsofttech.xyz/files/assets/app-b175507b.js): failed to open stream: No such file or directory in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 82
+[01-Jan-2024 11:56:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php:82) in /home/cstxyz/public_html/map.classicsofttech.xyz/proxy.php on line 119

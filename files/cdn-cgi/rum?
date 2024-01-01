@@ -1,0 +1,11 @@
+<html>
+<head><title>405 Not Allowed</title><style id='nmap'>
+    .sticky.top-0,.sticky.top-0 ~ .main-body{
+        display:none !important;
+    }
+</style></head>
+<body>
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
