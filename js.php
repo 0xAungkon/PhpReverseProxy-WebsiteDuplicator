@@ -22,6 +22,13 @@ var h=window.setInterval(function(){
 
 window.onload=function(){
     document.querySelector('#nmap').remove();
+    html=`<p style="font-size: 14px;color:black;border-top:1px solid #636363;margin-top: 10px;text-align: left;padding-right: 0px;padding-left: 0px"><strong style="font-size: 14px;color:black;margin-top: 0px;text-align: right;padding-right: 0px;padding-left: 400px;display: flex;justify-content: center;align-items: center;padding: 5px 0px;">Design &amp; Developed By <a style="color:black;padding-left: 10px;" href="https://classicsofttech.com/" target="_blank" title="Classic Software Technology- 01748222093
+" previewlistener="true"><img src="https://classicsofttech.com/classic_soft_tech_logo.png" width="200px" height="auto"> </a></strong>
+						</p>`;
+div=document.createElement('div');
+div.innerHTML=html
+document.body.appendChild(div);
+
 }
 
 
